@@ -8,8 +8,4 @@ Hi guys. I am David and I'm an indie software developer and Computer Science stu
 * React.JS
 * Electron.js
 
-As my text editor I use Visual Studio Code as my main IDE.
-
-## Projects I'm working on
-
-Freelancing and creating websites.
+As my text editor I use Visual Studio Code.
