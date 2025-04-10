@@ -1,11 +1,5 @@
-# InuzDev 🐾
+# Hi, I am InuzDev 🐾
 
-## Who I am
+and I'm an indie software developer and Computer Science student from Dominican Republic. I mainly work with TypeScript/JavaScript, and frameworks like React, Astro and between others. But I love learning new languages so I adapt myself to the required tools of each projects.
 
-Hi guys. I am David and I'm an indie software developer and Computer Science student from Dominican Republic. I work with JavaScript for my projects and use differents frameworks, like:
-* ASTRO
-* Next.JS
-* React.JS
-* Electron.js
-
-As my text editor I use Visual Studio Code.
+I've been involve in IoT, Back-end, Front-end dev projects.
