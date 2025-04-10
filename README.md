@@ -12,4 +12,4 @@ As my text editor I use Visual Studio Code as my main IDE.
 
 ## Projects I'm working on
 
-I made projects for fun and code solutions to problems anybody have. I been working on a new project to solve Trello, ClickUp and others IT solutions problems. Another project I been working on is a private project called MERQA.
+Freelancing and creating websites.
