@@ -1,12 +1,14 @@
-# Hey! I'm InuzDev
+# Hey! I am InuzDev 👋
 
-I am a student in computer science, focusing to become a software architect.
+I am a student in computer science, focusing to become a software architect. ⚙️
 
-I enjoy:
-* Reading
-* Coding and preparing projects
-* Adapting to new environments and updating old projects.
+I enjoy: 💖
+* Reading 📚
+* Coding and preparing projects 💻
+* Learning at night to prepare to understand the workload. 📑
+* Making clean code and documentation. 📜
 
 Funfacts:
-- I often work at night or in the morning
-- I enjoy simracing
+- Sleepyhead
+- Have two cats
+- Loves EDM music
