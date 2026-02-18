@@ -4,7 +4,7 @@ I am a student in computer science, focusing to become a software architect. ⚙
 
 I enjoy: 💖
 * Reading 📚<br>
-  [General topics, economics, tech, blogs, cyber security updates]
+  [General topics, economics, tech, blogs, cyber security updates & language documentation books to practice.]
 * Coding and preparing projects 💻<br>
   [Backend projects, language projects ; e.g "A C language project", design projects ; React.js]
 * Learning at night to prepare to understand the workload. 📑<br>
