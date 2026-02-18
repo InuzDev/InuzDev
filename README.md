@@ -14,5 +14,5 @@ I enjoy: 💖
 
 Funfacts:
 - Sleepyhead [Yeah, kinda tired]
-- Have two cats [Meow 🐾]
+- Have two cats [Nyaour 🐾]
 - Loves EDM music [Yep...]
