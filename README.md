@@ -1,3 +1,3 @@
-# Hewoo >w<
+# Hi >w<
 
-I am InuzDev, I'm a digital craftman, enjoy solving personal problems with software development.
+I am Inu, a computer science student and wannabe Software Architect. I love learning a lot about low level programming and better practices.
